@@ -14,8 +14,9 @@ html {
 body {
   font-family: 'Press Start 2P', sans-serif;
   color: #eee;
-  background-color: #222;
+  background-color: #1d2225;
   /* background-color: #60b347; */
+  /* background-color: #e33c3c; */
 }
 
 /* LAYOUT */
@@ -120,4 +121,8 @@ h1 {
 
 .label-score {
   margin-bottom: 2rem;
+}
+
+.hidden {
+  display: none;
 }
